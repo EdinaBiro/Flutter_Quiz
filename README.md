@@ -1,16 +1,28 @@
-# adv_basics
+# Flutter Quiz App
 
-A new Flutter project.
+A simple **quiz application** built with **Flutter**, created as a learning project.  
+The app displays multiple-choice questions and lets users select answers, showing how state management and UI rendering work in Flutter.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- Display quiz questions with multiple answers  
+- Interactive answer buttons  
+- Clean UI with Flutter’s Material components  
+- Good starting point for learning Flutter basics  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📚 About this project
+This project was developed by following the **[Udemy Flutter course](https://www.udemy.com/)** as a learning exercise.  
+It is **not a production-ready app**, but a foundation for experimenting with Flutter widgets, stateful logic, and app structure.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Tech Stack
+- [Flutter](https://flutter.dev/) (Dart SDK)  
+- Android Studio Koala  
+
+---
+
+
